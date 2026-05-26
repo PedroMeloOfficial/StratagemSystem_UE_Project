@@ -1,2 +1,2 @@
-# StrategemSystem_UE_Project
-Unreal Engine project created by Pedro Melo to develop a Strategem System.
+# Strategem System UE Project
+This is a Unreal Engine project created by Pedro Melo to develop a Strategem System.
