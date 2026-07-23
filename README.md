@@ -26,7 +26,9 @@ Each folder above has its own `README.md` going into more detail. Start with the
 1. Open `UE_StratagemSystem.uproject` in Unreal Engine 5.
 2. Open `Content/StratagemSystem/Demo/Maps/Stratagem_Gym.umap` to try the system in a live test arena.
 3. Hold the **Open Stratagem** input, enter a directional sequence, then throw — see [`Blueprints/Components`](Content/StratagemSystem/Blueprints/Components/README.md) for exactly how that pipeline works.
+<img width="869" height="244" alt="image" src="https://github.com/user-attachments/assets/08ff604f-aecc-45f9-87fa-fa4587c56587" />
 4. To add a new ability, see the **Extending the System** section in [`Blueprints/DataAssets/StratagemAbilities`](Content/StratagemSystem/Blueprints/DataAssets/StratagemAbilities/README.md).
+<img width="881" height="245" alt="image" src="https://github.com/user-attachments/assets/93fadeac-8175-4977-8a45-1642227cef85" />
 
 ---
 
